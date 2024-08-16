@@ -20,3 +20,5 @@ total_peso_munecas = cantidad_munecas * peso_muneca
 peso_total_paquete = total_peso_payasos + total_peso_munecas
 
 print(f'El peso total del paquete es de: {peso_total_paquete} g')
+
+#https://aprendeconalf.es/docencia/python/ejercicios/tipos-datos/
